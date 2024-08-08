@@ -169,5 +169,127 @@
       "bugs": 1,
       "improvements": 5
     }
+  ],
+  "cx_adoption": [
+    {
+      "month": "2022-03",
+      "others": 7,
+      "callcenter": 93,
+      "application": 0
+    },
+    {
+      "month": "2022-04",
+      "others": 9,
+      "callcenter": 83,
+      "application": 8
+    },
+    {
+      "month": "2022-05",
+      "others": 8,
+      "callcenter": 73,
+      "application": 19
+    },
+    {
+      "month": "2022-06",
+      "others": 13,
+      "callcenter": 63,
+      "application": 24
+    },
+    {
+      "month": "2022-07",
+      "others": 11,
+      "callcenter": 60,
+      "application": 29
+    },
+    {
+      "month": "2022-08",
+      "others": 7,
+      "callcenter": 53,
+      "application": 40
+    },
+    {
+      "month": "2022-09",
+      "others": 5,
+      "callcenter": 55,
+      "application": 40
+    },
+    {
+      "month": "2022-10",
+      "others": 7,
+      "callcenter": 23,
+      "application": 70
+    },
+    {
+      "month": "2022-11",
+      "others": 10,
+      "callcenter": 22,
+      "application": 68
+    },
+    {
+      "month": "2022-12",
+      "others": 10,
+      "callcenter": 20,
+      "application": 70
+    },
+    {
+      "month": "2023-01",
+      "others": 11,
+      "callcenter": 15,
+      "application": 74
+    },
+    {
+      "month": "2023-02",
+      "others": 13,
+      "callcenter": 12,
+      "application": 75
+    },
+    {
+      "month": "2023-03",
+      "others": 5,
+      "callcenter": 14,
+      "application": 81
+    },
+    {
+      "month": "2023-04",
+      "others": 7,
+      "callcenter": 10,
+      "application": 83
+    },
+    {
+      "month": "2023-05",
+      "others": 5,
+      "callcenter": 10,
+      "application": 85
+    },
+    {
+      "month": "2023-06",
+      "others": 6,
+      "callcenter": 9,
+      "application": 85
+    },
+    {
+      "month": "2023-07",
+      "others": 7,
+      "callcenter": 4,
+      "application": 89
+    },
+    {
+      "month": "2023-08",
+      "others": 9,
+      "callcenter": 1,
+      "application": 90
+    },
+    {
+      "month": "2023-09",
+      "others": 10,
+      "callcenter": 0,
+      "application": 90
+    },
+    {
+      "month": "2023-10",
+      "others": 7,
+      "callcenter": 0,
+      "application": 93
+    }
   ]
 }
