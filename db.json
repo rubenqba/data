@@ -297,6 +297,7 @@
     "subtitle": "Sales amount in USD",
     "series": [
       {
+        "name": "Sales",
         "data": [
           {
             "x": "2022-05-01",
